@@ -18,6 +18,7 @@ This is a game about ancient south east Asia during the 2nd Burmese-Siamese war.
 ## Player Skills
 ### Muay Thai
 - Thai martial arts used in melee close combat.
+### Long Sword
 ### Dual-wielded Swords
 ### Flintlock Pistol
 - Weapons imported by European merchants
@@ -27,6 +28,7 @@ This is a game about ancient south east Asia during the 2nd Burmese-Siamese war.
 ## Mount
 ### Horses
 ### Water Buffalos
+### Elephants
 
 ## NPC Characters
 ### Bang Rachan Villagers
