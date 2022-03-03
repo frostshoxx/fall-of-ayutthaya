@@ -10,7 +10,9 @@ This is a game about ancient south east Asia during the 2nd Burmese-Siamese war.
 ### Chapter 3 - Lord Taksin Breaking Siege
 ### Chapter 4 - Breakfast in Chanthaburi
 ### Chapter 5 - Rally Siamese Lords
+After the fall of Ayutthaya, all the vassel lords who weren't affected by the invasion decided to declare inpedence and form their own city states.
 ### Chapter 6 - Return to Ayutthaya
+Lord Taksin moved his navy to take back Ayutthaya from the Burmese army.
 ### Chapter 7 - Founding of Thonburi
 ### Chapter 8 - Reunification of Siam
 ### Chapter 9 - Bangkok Successesion
